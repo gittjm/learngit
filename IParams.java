@@ -1,7 +1,7 @@
 package school;
 //第一次注释aaa
 import java.util.ArrayList;
-
+//bbb
 public interface IParams{
 // 获取大班名额
 public int getBig();
